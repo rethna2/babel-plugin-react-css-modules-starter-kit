@@ -1,0 +1,10 @@
+.rootDiv{
+	margin: 20px;
+	padding: 20px;
+	border: 1px solid red;
+}
+
+.rootDiv p{
+	color:green;
+	font-weight: bold;
+}
